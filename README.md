@@ -1,11 +1,22 @@
-# Compello Staj Notlarım
+# Compello Staj Notlarım <!-- omit in toc -->
 
 Gün gün staj notlarımı barındırır.
+
+## İçerikler <!-- omit in toc -->
+
+- [Neden bu çalışma yapıldı?](#Neden-bu-%C3%A7al%C4%B1%C5%9Fma-yap%C4%B1ld%C4%B1)
+- [Verilen Proje](#Verilen-Proje)
+- [Notlar](#Notlar)
+- [Destek ve İletişim](#Destek-ve-%C4%B0leti%C5%9Fim)
 
 ## Neden bu çalışma yapıldı?
 
 - Staj defterini daha verimli ve hızlı doldurabilmek
 - İlerleyiş sürecimi takip edebilmek
+
+## Verilen Proje
+
+Resmin üzerindeki fotoşoplu alanları bulma
 
 ## Notlar
 
