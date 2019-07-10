@@ -12,6 +12,10 @@ Resmin orjinal olup olmadığını algılama ve eklenen verilerin tespiti
 - [Yapılacaklar](#Yap%C4%B1lacaklar)
 - [Ek Bağlantılar](#Ek-Ba%C4%9Flant%C4%B1lar)
 - [Referanslar](#Referanslar)
+  <<<<<<< HEAD
+- # [Ek Bağlantılar](#Ek-Ba%C4%9Flant%C4%B1lar)
+  > > > > > > > 6512f35c25beb40bcbc3a74a06ba45dba37adfe1
+- [Referanslar](#Referanslar)
 
 ## Temel Ayırma Teknikleri
 
