@@ -18,10 +18,9 @@ TMP_EXT = ".tmp_ela.jpg"
 ELA_EXT = ".ela.png"
 SAVE_REL_DIR = "generated"
 threads = []
-quality = 90
 
 
-def ela(fname, orig_dir, save_dir):
+def ela(fname, orig_dir, save_dir, quality):
     """
     Generates an ELA image on save_dir.
     Params:
@@ -50,6 +49,19 @@ def ela(fname, orig_dir, save_dir):
     os.remove(tmp_fname)
 
 
+def noisy_analysis(filename, inputdir, outputdir):
+    img = cv2.imread(filename)
+
+    # kernel = np.ones((5,5), np.float32) / 25
+    # dst = cv2.filter2D(img, -1 , kernel)
+
+    # ya da
+    blur = cv2.blur(img, (5, 5))
+
+    plt.imshow(img)
+    plt.imshow(blur)
+
+
 def main():
     args = parser.parse_args()
     dirc = args.directory
@@ -64,12 +76,10 @@ def main():
 
     for d in os.listdir(dirc):
         if d.endswith(".jpg") or d.endswith(".jpeg"):
-            thread = threading.Thread(target=ela, args=[d, dirc, ela_dirc])
+            thread = threading.Thread(
+                target=ela, args=[d, dirc, ela_dirc, quality])
             threads.append(thread)
             thread.start()
-
-    for t in threads:
-        t.join()
 
     print("Finished!")
     print("Head to %s/%s to check the results!" % (dirc, SAVE_REL_DIR))
