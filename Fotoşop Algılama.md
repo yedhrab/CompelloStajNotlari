@@ -11,7 +11,9 @@ Resmin orjinal olup olmadığını algılama ve eklenen verilerin tespiti
 - [Error Level Analysis ile Ayırma](#Error-Level-Analysis-ile-Ay%C4%B1rma)
 - [Noise Analysis ile Ayırma](#Noise-Analysis-ile-Ay%C4%B1rma)
 - [Code Kısmı](#Code-K%C4%B1sm%C4%B1)
-- [Yapılacaklar](#Yap%C4%B1lacaklar)
+- [Kişisel Notlar](#Ki%C5%9Fisel-Notlar)
+  - [Notlar](#Notlar)
+  - [Yapılacaklar](#Yap%C4%B1lacaklar)
 - [Ek Bağlantılar](#Ek-Ba%C4%9Flant%C4%B1lar)
 - [Referanslar](#Referanslar)
 
@@ -49,7 +51,16 @@ Her EXIF metadata özelliği için confidency matrix oluşturulur.
 
 - `exif_demo` metodu tüm işlemini gerçekleştiği yer.
 
-## Yapılacaklar
+## Kişisel Notlar
+
+### Notlar
+
+- Adobe AI çalıştırıabilir hale getirildi
+  - Kodlar: [notebook](src/adobe_ai.ipynb), [python](src/adobe_ai.py)
+  - Tam olarak bulamıyor 😢
+  - Sadece yüzleri ile çalışmakta
+
+### Yapılacaklar
 
 - [Buradaki](https://arxiv.org/pdf/1805.04096.pdf) paper'a devam edilecek
 - [Demo kodundan](https://github.com/minyoungg/selfconsistency/blob/master/demo.ipynb) kaynak kodu anlaşılmaya çalışılacak
@@ -63,6 +74,7 @@ Her EXIF metadata özelliği için confidency matrix oluşturulur.
 ## Referanslar
 
 - [Makale (Paper)](https://arxiv.org/pdf/1805.04096.pdf)
+  - To model post-processing consistency, we add three augmentation operations during training: re-JPEGing, Gaussian blur, and image resizing
 - [Proje](https://github.com/minyoungg/selfconsistency)
 - [Projenin web sitesi](https://minyoungg.github.io/selfconsistency/)
 - [Veriseti](http://people.eecs.berkeley.edu/~owens/consistency/exif_final.zip)
