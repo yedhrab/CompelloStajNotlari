@@ -6,16 +6,16 @@ Resmin orjinal olup olmadığını algılama ve eklenen verilerin tespiti
 
 ## İçerikler <!-- omit in toc -->
 
-- [Temel Ayırma Teknikleri](#Temel-Ay%C4%B1rma-Teknikleri)
-  - [EXIF MetaData ile Ayırma](#EXIF-MetaData-ile-Ay%C4%B1rma)
-- [Error Level Analysis ile Ayırma](#Error-Level-Analysis-ile-Ay%C4%B1rma)
-- [Noise Analysis ile Ayırma](#Noise-Analysis-ile-Ay%C4%B1rma)
-- [Code Kısmı](#Code-K%C4%B1sm%C4%B1)
-- [Kişisel Notlar](#Ki%C5%9Fisel-Notlar)
-  - [Notlar](#Notlar)
-  - [Yapılacaklar](#Yap%C4%B1lacaklar)
-- [Ek Bağlantılar](#Ek-Ba%C4%9Flant%C4%B1lar)
-- [Referanslar](#Referanslar)
+- [Temel Ayırma Teknikleri](#temel-ay%c4%b1rma-teknikleri)
+  - [EXIF MetaData ile Ayırma](#exif-metadata-ile-ay%c4%b1rma)
+- [Error Level Analysis ile Ayırma](#error-level-analysis-ile-ay%c4%b1rma)
+- [Noise Analysis ile Ayırma](#noise-analysis-ile-ay%c4%b1rma)
+- [Code Kısmı](#code-k%c4%b1sm%c4%b1)
+- [Kişisel Notlar](#ki%c5%9fisel-notlar)
+  - [Notlar](#notlar)
+  - [Yapılacaklar](#yap%c4%b1lacaklar)
+- [Ek Bağlantılar](#ek-ba%c4%9flant%c4%b1lar)
+- [Referanslar](#referanslar)
 
 ## Temel Ayırma Teknikleri
 
@@ -56,7 +56,7 @@ Her EXIF metadata özelliği için confidency matrix oluşturulur.
 ### Notlar
 
 - Adobe AI çalıştırıabilir hale getirildi
-  - Kodlar: [notebook](src/adobe_ai.ipynb), [python](src/adobe_ai.py)
+  - Kodlar: [notebook](../src/adobe_ai.ipynb), [python](../src/adobe_ai.py)
   - Tam olarak bulamıyor 😢
   - Sadece yüzleri ile çalışmakta
 
