@@ -22,9 +22,11 @@ Dijital fotoğraflar `EXIF` formatında meta data içerirler. `EXIF` verisi ile 
 
 Alttaki resimdeki insanları ve aynadaki yansımlarını baz alan perspektif çizgileri aynı nokatada kesişmediğinden, resim sahtedir.
 
+![shopped_img](res/shopped_img.png)
+
 ## Error Level Analysis ile Algılama
 
-![shopped_img](res/shopped_img.png)
+> [3 - Error Level Analysis](3%20-%20Error%20Level%20Analysis.md)
 
 [jeffrey's image metadata viewer]: http://exif.regex.info/exif.cgi
 [three ways to spot if an image has been manipulated]: https://www.poynter.org/reporting-editing/2012/three-ways-to-spot-if-an-image-has-been-manipulated/
