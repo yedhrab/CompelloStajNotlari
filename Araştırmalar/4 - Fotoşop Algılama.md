@@ -12,6 +12,7 @@ Resmin orjinal olup olmadığını algılama ve eklenen verilerin tespiti
 - [Noise Analysis ile Ayırma](#noise-analysis-ile-ay%c4%b1rma)
 - [Code Kısmı](#code-k%c4%b1sm%c4%b1)
 - [Kişisel Notlar](#ki%c5%9fisel-notlar)
+- [Faydalı Linkler](#faydal%c4%b1-linkler)
   - [Notlar](#notlar)
   - [Yapılacaklar](#yap%c4%b1lacaklar)
 - [Ek Bağlantılar](#ek-ba%c4%9flant%c4%b1lar)
@@ -50,8 +51,13 @@ Her EXIF metadata özelliği için confidency matrix oluşturulur.
 [Buradaki](https://github.com/minyoungg/selfconsistency/blob/master/demo.ipynb) kod incelenerek model bulunacak.
 
 - `exif_demo` metodu tüm işlemini gerçekleştiği yer.
+- `mean_shift` algoritması kullanmakta
 
 ## Kişisel Notlar
+
+## Faydalı Linkler
+
+- [Mean Shift ile Hareketli Nesne Algılama](http://mesutpiskin.com/blog/agirlikli-ortalama-oteleme-algoritmasi-mean-shift-ile-hareketli-nesne-takibi.html)
 
 ### Notlar
 
