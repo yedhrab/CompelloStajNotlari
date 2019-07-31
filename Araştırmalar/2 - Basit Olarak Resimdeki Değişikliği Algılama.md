@@ -29,7 +29,7 @@ Dijital fotoğraflar `EXIF` formatında meta data içerirler. `EXIF` verisi ile 
 
 Alttaki resimdeki insanları ve aynadaki yansımlarını baz alan perspektif çizgileri aynı nokatada kesişmediğinden, resim sahtedir.
 
-![shopped_img](res/shopped_img.png)
+![shopped_img](../res/shopped_img.png)
 
 ## Error Level Analysis ile Algılama
 

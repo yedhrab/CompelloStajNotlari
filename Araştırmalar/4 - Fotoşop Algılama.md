@@ -2,7 +2,7 @@
 
 Resmin orjinal olup olmadığını algılama ve eklenen verilerin tespiti
 
-![ex_trampped](res/ex_trampped.png)
+![ex_trampped](../res/ex_trampped.png)
 
 ## İçerikler <!-- omit in toc -->
 
@@ -19,7 +19,7 @@ Resmin orjinal olup olmadığını algılama ve eklenen verilerin tespiti
 
 ## Temel Ayırma Teknikleri
 
-![all_confidency_matrix](res/all_confidency_matrix.png)
+![all_confidency_matrix](../res/all_confidency_matrix.png)
 
 ### EXIF MetaData ile Ayırma
 
@@ -30,7 +30,7 @@ Her EXIF metadata özelliği için confidency matrix oluşturulur.
 - Her JPEG dosyası resmin kimlik verileri olan **EXIF Metadata** sahiptir
 - Her frame'in metadata'larına bakılır ve farklılık söz konusu olursa resim değiştirilmiş demektir
 
-![exif_data](res/exif_data.png)
+![exif_data](../res/exif_data.png)
 
 ## Error Level Analysis ile Ayırma
 

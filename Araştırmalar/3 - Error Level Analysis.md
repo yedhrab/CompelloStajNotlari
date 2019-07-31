@@ -16,7 +16,7 @@ Dijital kameralar resim çekerken optimize etmezler
 
 > ELA seviyesi yüksek çıkar
 
-![](res/orijin_ela.png) ![](res/origin_ela_result.png)
+![](../res/orijin_ela.png) ![](../res/origin_ela_result.png)
 
 ## Yeniden Kaydedilmiş Resmin ELA Değeri
 
@@ -24,13 +24,13 @@ Resim her yeniden kaydedildiğinde optimize edilir (ela düşer)
 
 > İnsan gözü değişikliliği anlamaz.
 
-![](res/orijin_ela.png) ![](res/resaved_origin_ela.png)
+![](../res/orijin_ela.png) ![](../res/resaved_origin_ela.png)
 
 ## Değiştirilmiş Resimin ELA Değeri
 
 Eğer resim üzerinde tüm yüzeyler ve kenarlarda ELA değeri birbirine benzer, bir alanda çok farklı ise o alan değiştirilmiş anlamında gelir.
 
-![](res/changed_pic.png) ![](res/changed_ela.png)
+![](../res/changed_pic.png) ![](../res/changed_ela.png)
 
 ## Python'da ELA
 

@@ -42,7 +42,7 @@ AutoEncoder, verideki gürültüyü (noise) yakalayarak verinin boyutunu düşü
 - Resim setindeki gürültüyü kaldırma
   - AutoEncoder resimleri öğrendiği için görültü içerisinde resmi bularak çevresindeki gürültüyü kaldırırken, resmin aslını korur
 
-![autoencodeer_structure](res/autoencodeer_structure.png)
+![autoencodeer_structure](../res/autoencodeer_structure.png)
 
 > [Auto-Encoder: What Is It? And What Is It Used For?]
 

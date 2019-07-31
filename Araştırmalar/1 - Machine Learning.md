@@ -2,15 +2,15 @@
 
 ## İçerikler <!-- omit in toc -->
 
-- [Terimler](#Terimler)
-  - [Ground truth](#Ground-truth)
-  - [Vanishing gradient](#Vanishing-gradient)
-- [Convolutional Neural Network (CNN)](#Convolutional-Neural-Network-CNN)
-- [Deep Residual Network (ResNet)](#Deep-Residual-Network-ResNet)
-- [CNN ve ResNet Gösterimleri](#CNN-ve-ResNet-G%C3%B6sterimleri)
-- [PDF'ler](#PDFler)
-- [Dataset Kaynakları](#Dataset-Kaynaklar%C4%B1)
-- [Yapılmış Projeler ve Makaleler](#Yap%C4%B1lm%C4%B1%C5%9F-Projeler-ve-Makaleler)
+- [Terimler](#terimler)
+  - [Ground truth](#ground-truth)
+  - [Vanishing gradient](#vanishing-gradient)
+- [Convolutional Neural Network (CNN)](#convolutional-neural-network-cnn)
+- [Deep Residual Network (ResNet)](#deep-residual-network-resnet)
+- [CNN ve ResNet Gösterimleri](#cnn-ve-resnet-g%c3%b6sterimleri)
+- [PDF'ler](#pdfler)
+- [Dataset Kaynakları](#dataset-kaynaklar%c4%b1)
+- [Yapılmış Projeler ve Makaleler](#yap%c4%b1lm%c4%b1%c5%9f-projeler-ve-makaleler)
 
 ## Terimler
 
@@ -58,7 +58,7 @@ gibi faydaları vardır.
 
 ResNet içerisinde X girdileri bir sonraki fonksiyona da aktarılır.
 
-![cnn_res](res/cnn_res.png)
+![cnn_res](../res/cnn_res.png)
 
 ## PDF'ler
 
