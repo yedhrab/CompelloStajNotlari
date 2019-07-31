@@ -2,14 +2,15 @@
 
 ## İçerikler
 
-- [Araştırma Notları](#Ara%C5%9Ft%C4%B1rma-Notlar%C4%B1)
-  - [İçerikler](#%C4%B0%C3%A7erikler)
-  - [Doğru Arama Cümleleleri](#Do%C4%9Fru-Arama-C%C3%BCmleleleri)
-  - [Fayda Sağlayacak Siteler](#Fayda-Sa%C4%9Flayacak-Siteler)
-  - [Github Örnekleri](#Github-%C3%96rnekleri)
-  - [AutoEncoder ile Görüntü İşlemleri](#AutoEncoder-ile-G%C3%B6r%C3%BCnt%C3%BC-%C4%B0%C5%9Flemleri)
-  - [Harici Bağlantılar](#Harici-Ba%C4%9Flant%C4%B1lar)
-  - [Ek Bağlantılar](#Ek-Ba%C4%9Flant%C4%B1lar)
+- [Araştırma Notları](#ara%c5%9ft%c4%b1rma-notlar%c4%b1)
+  - [İçerikler](#%c4%b0%c3%a7erikler)
+  - [Doğru Arama Cümleleleri](#do%c4%9fru-arama-c%c3%bcmleleleri)
+  - [Fayda Sağlayacak Siteler](#fayda-sa%c4%9flayacak-siteler)
+  - [Github Örnekleri](#github-%c3%96rnekleri)
+  - [AutoEncoder ile Görüntü İşlemleri](#autoencoder-ile-g%c3%b6r%c3%bcnt%c3%bc-%c4%b0%c5%9flemleri)
+  - [Harici Bağlantılar](#harici-ba%c4%9flant%c4%b1lar)
+    - [Karma Bağlantılar](#karma-ba%c4%9flant%c4%b1lar)
+  - [Ek Bağlantılar](#ek-ba%c4%9flant%c4%b1lar)
 
 ## Doğru Arama Cümleleleri
 
@@ -53,6 +54,12 @@ AutoEncoder, verideki gürültüyü (noise) yakalayarak verinin boyutunu düşü
 - [This is How You Can Tell if an Image has Been Photoshopped]
 - [Motion Detection Algorithms]
 - [5 Ways to Detect Outliers/Anomalies That Every Data Scientist Should Know (Python Code)]
+
+### Karma Bağlantılar
+
+- [Python noise deteciton](https://github.com/pacificweb/python-noise-detection)
+- [Detecting multiple bright spots in an image with Python and OpenCV](https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-image-with-python-and-opencv/s)
+- [Python resimleri karşılaştırma](https://www.pyimagesearch.com/2014/09/15/python-compare-two-images/)
 
 ## Ek Bağlantılar
 

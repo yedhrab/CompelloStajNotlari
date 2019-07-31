@@ -4,10 +4,10 @@ Gün gün staj notlarımı barındırır.
 
 ## İçerikler <!-- omit in toc -->
 
-- [Neden bu çalışma yapıldı?](#Neden-bu-%C3%A7al%C4%B1%C5%9Fma-yap%C4%B1ld%C4%B1)
-- [Verilen Proje](#Verilen-Proje)
-- [Notlar](#Notlar)
-- [Destek ve İletişim](#Destek-ve-%C4%B0leti%C5%9Fim)
+- [Neden bu çalışma yapıldı?](#neden-bu-%c3%a7al%c4%b1%c5%9fma-yap%c4%b1ld%c4%b1)
+- [Verilen Proje](#verilen-proje)
+- [Araştırmalar](#ara%c5%9ft%c4%b1rmalar)
+- [Destek ve İletişim](#destek-ve-%c4%b0leti%c5%9fim)
 
 ## Neden bu çalışma yapıldı?
 
@@ -18,9 +18,17 @@ Gün gün staj notlarımı barındırır.
 
 Resmin üzerindeki fotoşoplu alanları bulma
 
-## Notlar
+<!--Index-->
 
-> Yakında indekslenecek
+## Araştırmalar
+
+- [0 - Araştırma Notları](./Ara%C5%9Ft%C4%B1rmalar/0%20-%20Ara%C5%9Ft%C4%B1rma%20Notlar%C4%B1.md)
+- [1 - Machine Learning](./Ara%C5%9Ft%C4%B1rmalar/1%20-%20Machine%20Learning.md)
+- [2 - Basit Olarak Resimdeki Değişikliği Algılama](./Ara%C5%9Ft%C4%B1rmalar/2%20-%20Basit%20Olarak%20Resimdeki%20De%C4%9Fi%C5%9Fikli%C4%9Fi%20Alg%C4%B1lama.md)
+- [3 - Error Level Analysis](./Ara%C5%9Ft%C4%B1rmalar/3%20-%20Error%20Level%20Analysis.md)
+- [4 - Fotoşop Algılama](./Ara%C5%9Ft%C4%B1rmalar/4%20-%20Foto%C5%9Fop%20Alg%C4%B1lama.md)
+
+<!--Index-->
 
 ## Destek ve İletişim
 

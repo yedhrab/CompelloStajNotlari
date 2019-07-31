@@ -1,4 +1,11 @@
-# Resimdeki Değişikliliği Algılama
+# Resimdeki Değişikliliği Algılama <!-- omit in toc -->
+
+## İçerikler <!-- omit in toc -->
+
+- [Göz ile algılama](#g%c3%b6z-ile-alg%c4%b1lama)
+- [Meta Data (EXIF) ile Resim Değişikliğini Algılama](#meta-data-exif-ile-resim-de%c4%9fi%c5%9fikli%c4%9fini-alg%c4%b1lama)
+- [Gölgeler ve Yansımalar ile Resim Değişikliğini Algılama](#g%c3%b6lgeler-ve-yans%c4%b1malar-ile-resim-de%c4%9fi%c5%9fikli%c4%9fini-alg%c4%b1lama)
+- [Error Level Analysis ile Algılama](#error-level-analysis-ile-alg%c4%b1lama)
 
 ## Göz ile algılama
 
