@@ -53,6 +53,8 @@ Her EXIF metadata özelliği için confidency matrix oluşturulur.
 - `exif_demo` metodu tüm işlemini gerçekleştiği yer.
 - `mean_shift` algoritması kullanmakta
 
+> Düzgün çalışmıyor, sadece kendi verilerinde iyi 🤔
+
 ## Kişisel Notlar
 
 ## Faydalı Linkler
