@@ -1,4 +1,4 @@
-# Compello Staj Notlarım <!-- omit in toc -->
+# 📝 Compello Staj Notlarım <!-- omit in toc -->
 
 Gün gün staj notlarımı barındırır.
 
